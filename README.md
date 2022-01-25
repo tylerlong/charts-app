@@ -1,2 +1,3 @@
-# charts-app
+# Charts
+
 Generate charts based on CSV text.
